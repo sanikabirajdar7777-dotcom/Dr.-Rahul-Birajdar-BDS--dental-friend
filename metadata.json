@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Rahul Birajdar, BDS - Dental Specialist",
+  "description": "Chat with Dr. Rahul Birajdar, BDS, a dental specialist persona powered by Gemini. Get expert answers to your dental questions, from general hygiene to complex procedures.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
